@@ -1,7 +1,7 @@
 ## Seja bem-vindo! Eu sou o Guilherme Henriques e este é meu GitHub
 - 🎓 Cursando Ciência da Computação na Universidade Vila Velha, atualmente no 6° período
 - 📚 Estudando Golang, JavaScript, Solidity e Web3
-- 💼 À procura de novos desafios, conhecimento e experiencias
+- 💼 À procura de novos desafios, conhecimentos e experiencias
 
 <div align="center">
   <a href="https://github.com/GuihermeHenriquesM">
